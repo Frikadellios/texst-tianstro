@@ -1,0 +1,24 @@
+{
+  "name": "sandbox",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "tinacms dev -c 'astro dev'",
+    "start": "astro dev",
+    "build": "tinacms build -c 'astro build'",
+    "preview": "astro preview",
+    "astro": "astro",
+    "astrobuild":"astro build"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^0.19.7",
+    "@astrojs/react": "^2.2.1",
+    "@tinacms/cli": "0.0.0-20230627223831",
+    "@types/react": "^18.2.13",
+    "@types/react-dom": "^18.2.6",
+    "astro": "^2.6.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tinacms": "0.0.0-20230627223831"
+  }
+}

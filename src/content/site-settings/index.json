@@ -1,0 +1,39 @@
+{
+  "siteTitle": "Ciel's Sandbox",
+  "logo": "/uploads/comet icon.png",
+  "title": "Website Title",
+  "tagline": "Website tagline",
+  "navLinks": [
+    {
+      "linkType": "internal",
+      "relativePath": "src/content/pages/about.mdx",
+      "anchor": "About"
+    },
+    {
+      "linkType": "internal",
+      "relativePath": "src/content/pages/program.mdx",
+      "anchor": "Program"
+    },
+    {
+      "linkType": "internal",
+      "relativePath": "src/content/pages/resources.mdx",
+      "anchor": "Resources"
+    },
+    {
+      "linkType": "internal",
+      "relativePath": "src/content/pages/news-and-events.mdx",
+      "anchor": "News & Events"
+    },
+    {
+      "linkType": "internal",
+      "relativePath": "src/content/pages/contact.mdx",
+      "anchor": "Contact"
+    }
+  ],
+  "cta": {
+    "url": "https://www.w3schools.com/cssref/css3_pr_background-size.php",
+    "anchor": "External",
+    "isExternal": true
+  },
+  "favicon": "/uploads/crown_32.png"
+}
